@@ -32,6 +32,14 @@ API REST NodeJS + Express + MongoDB
 - ELiminar usuario: /user/:id
 - Modificar usuario /user/:id
 
+## Documentacion 📖
+
+- https://dev.to/vguleaev/dockerize-a-node-js-app-connected-to-mongodb-5bp1
+- https://medium.com/@yash.kukreja.98/dockerizing-a-nodejs-and-mongodb-app-a-tale-of-dockers-and-containers-35747cb7e26e
+- https://carlosazaustre.es/curso-nodejs-gratis
+- 
+
+
 ## Autor ✒️
 * **Gustavo Morales** - *All work* - (https://github.com/gmoralese/NodeExpressMongo)
 
