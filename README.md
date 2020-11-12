@@ -24,6 +24,8 @@ API REST NodeJS + Express + MongoDB
 
 - La app cuenta con los siguientes endpoints:
 
+**ejemplo: obtener todos los usuarios: http://localhost:8080/users **
+
 - Crear usuario: /user-create
 - Obtener todos los usuarios: /users
 - Obtener usuario por id: /user/:id
