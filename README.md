@@ -1,6 +1,6 @@
 # Título del Proyecto
 
-API REST NodeJS + Express + MongoDB
+API REST NodeJS + Express + MongoDB + Jest
 
 
 ### Pre-requisitos 📋
