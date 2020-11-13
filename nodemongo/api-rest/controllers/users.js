@@ -8,9 +8,9 @@ async function createUser(req, res) {
     phone: req.query.phone 
   });
 
-  await user.save().then(() => console.log("User created"));
+  await user.save().then(() => console.log("Usuario creado"));
 
-  res.send("User created \n");
+  res.send("Usuario creado \n");
 }
 
 async function getUser(req, res) {
