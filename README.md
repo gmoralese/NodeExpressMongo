@@ -20,6 +20,10 @@ API REST NodeJS + Express + MongoDB
 - docker-compose build
 - docker-compose up
 
+### TESTS 🔧
+
+- para correr los test, en la carpeta raiz del proyecto ejecutar: npm test
+
 ## Ejecutando las pruebas ⚙️
 
 - La app cuenta con los siguientes endpoints:
