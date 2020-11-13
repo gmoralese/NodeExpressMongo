@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 const UserModel = require('../models/user');
-const userData = { name: 'TekLoon' };
+const userData = { name: 'Gustavo' };
 
 describe('Test User model', () => {
     // It's just so easy to connect to the MongoDB Memory Server 
