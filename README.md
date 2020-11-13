@@ -41,7 +41,7 @@ API REST NodeJS + Express + MongoDB
 - https://dev.to/vguleaev/dockerize-a-node-js-app-connected-to-mongodb-5bp1
 - https://medium.com/@yash.kukreja.98/dockerizing-a-nodejs-and-mongodb-app-a-tale-of-dockers-and-containers-35747cb7e26e
 - https://carlosazaustre.es/curso-nodejs-gratis
-- 
+- https://medium.com/javascript-in-plain-english/how-i-setup-unit-test-for-mongodb-using-jest-mongoose-103b772ee164
 
 
 ## Autor ✒️
