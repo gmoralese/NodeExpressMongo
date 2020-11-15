@@ -17,6 +17,7 @@ API REST NodeJS + Express + MongoDB + Jest
 ## Despliegue 📦
 
 - En la carpeta raiz de la app ejecutar:
+- npm install
 - docker-compose build
 - docker-compose up
 
